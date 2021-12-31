@@ -1,1 +1,1 @@
-Github é um repositorio git.
+Git é um sistema de versionamento de codigo distribuido.
